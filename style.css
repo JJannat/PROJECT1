@@ -1,0 +1,14 @@
+body{
+    background-color: peachpuff;
+    text-align: center;
+}
+form{
+   background-color: beige;
+   opacity: 0.7;
+   border-radius:30px ;
+   color: black;
+   width: 400px;
+   height: 300px;
+   margin-left: 550px;
+   margin-top: 200px;
+}
